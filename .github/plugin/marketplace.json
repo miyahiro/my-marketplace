@@ -1,0 +1,14 @@
+{
+  "name": "my-team-tools",
+  "owner": {
+    "name": "YOUR-NAME"
+  },
+  "plugins": [
+    {
+      "name": "handoff-memo",
+      "description": "変更メモを、次の担当者に渡す引き継ぎメモに整える",
+      "version": "0.1.0",
+      "source": "./plugins/handoff-memo"
+    }
+  ]
+}
